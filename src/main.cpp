@@ -1,6 +1,7 @@
 #include <iostream>
+#include "include/Poco/URI.h"
 
-int main(int argc, char *argv[])
+int main()
 {
-	std::cout << "Hello world!" << std::endl;
+
 }
