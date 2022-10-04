@@ -1,0 +1,21 @@
+[project]
+author = "Aditya"
+description = "This project aims to change the users wallpaper on startup"
+version = "0.1"
+license = "MIT"
+
+
+[settings]
+# save_image = false # change if you do/don't want to save the wallpapers
+welcome_text = "Welcome Aditya!" # change to your own welcome text
+# change image link https://www.theweather.com/widget/
+image = "https://www.theweather.com/wimages/foto5e73998f8acd66cdda5034a1a2691faa.png"
+
+[wallpaper]
+width = 1920
+height = 1080
+search_queries = ["dark"]
+
+[fonts]
+bold = "assets/fonts/Dublin-Bold.otf"
+regular = "assets/fonts/Dublin-Regular.otf"

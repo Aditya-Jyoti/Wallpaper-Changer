@@ -1,7 +1,9 @@
-# Wallpaper-Changer
-Changes the PC wallpaper automatically
+# Wallpaper Changer
 
-[docs](https://docs.microsoft.com/en-us/windows/win32/api/shobjidl_core/nn-shobjidl_core-idesktopwallpaper)
+### About
 
+This project uses the usplash image API to generate images based on users settings and then pastes custom details on it and then changes it as the desktop wallpaper
 
-[api](https://picsum.photos/1920/1080)
+### ToDo
+
+1. Make the project release ready
